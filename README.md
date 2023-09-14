@@ -11,3 +11,8 @@ Q-learning outputs a Qtable which contains values that are used to determine whi
 in a particular state in order to maximize overall reward in the system. We implement two separate
 algorithms, the Q-Learning and the SARSA algorithms which are able to make the robot efficiently 
 traverse the map following the walls.
+
+# YOUTUBE LINKS -> 
+
+QLearningTest Videos -> https://youtu.be/-6zfnMSkQIE, https://youtu.be/G2plJTXGen0
+SARSATest Videos -> https://youtu.be/htHpp2eVvcQ, https://youtu.be/_coBjrYad44, https://youtu.be/V7sGDchkU20
